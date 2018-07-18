@@ -1,0 +1,10 @@
+## Abstract
+
+This page aims at presenting the mathematical model used by the R code called by the shiny WebApp.
+
+## Example
+
+For any $P>0$ real, the function $x\in\mathbf R \mapsto e^{\frac{2\pi i x}{P}} \in \mathbf C$ is cyclic of period $P$. Moreover, any (sufficiently smooth) function $f\colon\mathbf R \to \mathbf C$ of period $P>0$ can be decomposed as a sum (Fourier sum):
+$$
+\forall x\in\mathbf R,\, f(x) =\sum_{n\geqslant 0} c_n e^{\frac{2\pi i n x}{P}},
+$$
