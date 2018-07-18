@@ -1,6 +1,3 @@
-library("shiny")
-library("shinydashboard")
-
 header <- project.dashboardHeader()
 
 sidebar <- project.dashboardSidebar()

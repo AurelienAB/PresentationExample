@@ -1,5 +1,5 @@
-# Authors : Aurelien Ancelin-Binet, Irina Kouvabina
-# Contact : aurelien.ancelin-binet@engie.com ; irina.kouvabina@gmail.com
+# Authors : Aurelien Ancelin-Binet
+# Contact : abaurelien@laposte.net
 #
 # Global environment of the R session
 
